@@ -3,7 +3,6 @@
 <h1 align="center">👩🏻‍💻 Malak Yehia </h1>
 <h3 align="center">Java and Python developer</h3>
 
-Here's the paragraph converted into bullet points:
 
 - 👩🏻‍🎓 BSc in Information Systems focusing on Data Science, University of Haifa
 - 💻 Proficient in Java and Python
