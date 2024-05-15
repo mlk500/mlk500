@@ -5,7 +5,6 @@
 
 
 - 👩🏻‍🎓 BSc in Information Systems focusing on Data Science, University of Haifa
-- 💻 Proficient in Java and Python
 - 🚀 In the final stages of a capstone project built with React and Flutter on the client side, and TensorFlow, Spring Boot, and MySQL on the server side
 - 🌱 Currently exploring and learning about Deep learning and LLMs
 - 🔧 Built projects using various technologies including Java, Android, Spring Boot, and Python
