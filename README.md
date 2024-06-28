@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/mlk500/mlk500/assets/57171298/82ba6948-b73d-473f-bba4-a180432f01a6)
 
-<h1 align="center">👩🏻‍💻 Malak Yehia </h1>
-<h3 align="center">Java and Python developer</h3>
+<h1 align="center"> Malak Yehia 👩🏻‍💻 </h1>
+<h3 align="center">Java and Python Developer</h3>
 
 
 - 👩🏻‍🎓 BSc in Information Systems focusing on Data Science, University of Haifa
@@ -35,6 +35,7 @@
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
