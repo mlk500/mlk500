@@ -29,7 +29,7 @@
 
 #### **CuraEats** - Android App for Diabetics
 - Full-stack app developed as part of an **industry project with CuraLife**.  
-- Available on [Play Store](https://play.google.com/store/apps/details?id=com.curalife.curaeats)  
+- Available on [Play Store](https://play.google.com/store/apps/details?id=app.CuraEats&hl=en)  
 ---
 
 ### 🛠️ Technical Skills
